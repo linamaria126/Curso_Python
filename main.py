@@ -1,3 +1,5 @@
+from dia2 import *
+
 # Ejercicio 1.
 #print("Digita una frase")
 #x = input ()
@@ -18,7 +20,7 @@
 #n3 = n1 + n2
 #print("La suma de los dos números es: " + str(n3))
 
-# Ejercicio 4.
+#Ejercicio 4.
 #print("Digita tu año de nacimiento")
 #año_nacimiento = int(input())
 #año_actual = 2021
@@ -26,9 +28,9 @@
 #print("Tienes " + str(edad) + " años")
 
 # Ejercicio 5
-print("Ingrese la base del rectángulo")
-base = int(input())
-print("Ingrese la altura del rectángulo")
-altura = int(input())
-area = base * altura
-print ("El área del triángulo es", area)
+#print("Ingrese la base del rectángulo")
+#base = int(input())
+#print("Ingrese la altura del rectángulo")
+#altura = int(input())
+#area = base * altura
+#print ("El área del triángulo es", area)
